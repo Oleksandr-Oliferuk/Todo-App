@@ -1,9 +1,25 @@
-# React TypeScript Starter Pack
+# React Todo App
+-  [DEMO LINK](https://oleksandr-oliferuk.github.io/Todo-App/)
 
-To use this template click `Use this template`
 
-### Available Scripts
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+# Stack:
+React, TypeScript, SCSS
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Fetch API for server communication
+
+# Features:
+Add, edit, complete, and delete tasks
+
+Real-time updates with server sync
+
+Loading indicator for smoother UX
+
+# Purpose:
+Demonstrates practical experience with:
+
+Client-server interaction
+
+Asynchronous data handling
+
+Dynamic UI rendering
